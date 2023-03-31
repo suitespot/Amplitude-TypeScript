@@ -6,7 +6,7 @@
     "downlevelIteration": true,
     "inlineSources": true,
     "importHelpers": true,
-    "lib": ["es5"],
+    "lib": ["es2015"],
     "module": "commonjs",
     "moduleResolution": "node",
     "noEmitHelpers": true,
